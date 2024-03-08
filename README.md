@@ -3,6 +3,10 @@
 - 🌱 I’m currently learning about **bluetooth low energy devices management**
 - 🎯 I'm motivated to **learn new things every day** 💡
 - ⚡ Fun fact: **I love animals** 🐈 **and I love playing video games** 👾
+
+<details><summary>📊 Github stats </summary>
+[![Darkgigi's GitHub stats](https://github-readme-stats.vercel.app/api?username=darkgigi)](https://github.com/anuraghazra/github-readme-stats)
+</details>
 <!--
 **darkgigi/darkgigi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
