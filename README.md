@@ -1,5 +1,8 @@
-### Hi there 👋
+### I'm a student of Software Engineering degree at the University of Seville
 
+- 🌱 I’m currently learning about **bluetooth low energy devices management**
+- 🎯 I'm motivated to **learn new things every day** 💡
+- ⚡ Fun fact: **I love animals** 🐈 **and I love playing video games** 👾
 <!--
 **darkgigi/darkgigi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
