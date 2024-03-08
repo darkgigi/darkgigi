@@ -6,8 +6,14 @@
 
 <details>
   <summary>📊 Github stats</summary>
+
+  <div style="justfify-content: center;">
   
-  [![Daniel Arriaza's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=darkgigi&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Daniel Arriaza's GitHub](https://github-readme-stats.vercel.app/api?username=darkgigi&show_icons=true&bg_color=DEG,FF8F5D,9B4AC6&text_color=FFFF&title_color=FFFF)](https://github.com/anuraghazra/github-readme-stats)
+  <br>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkgigi&show_icons=true&bg_color=DEG,FF8F5D,9B4AC6&text_color=FFFF&title_color=FFFF)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
 </details>
 <!--
 **darkgigi/darkgigi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
