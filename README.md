@@ -1,6 +1,6 @@
-### I'm a student of Software Engineering degree at the University of Seville
+### I'm a Master's student in Cloud and Data Engineering at the University of Seville
 
-- 🌱 I’m currently learning about **bluetooth low energy devices management**
+- 🌱 I’m currently learning about **Unity**
 - 🎯 I'm motivated to **learn new things every day** 💡
 - ⚡ Fun fact: **I love animals** 🐈 **and I love playing video games** 👾
 <hr>
