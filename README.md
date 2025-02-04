@@ -12,7 +12,7 @@
   [![Daniel Arriaza's GitHub](https://github-readme-stats.vercel.app/api?username=darkgigi&show_icons=true&bg_color=DEG,FF8F5D,9B4AC6&text_color=FFFF&title_color=FFFF)](https://github.com/anuraghazra/github-readme-stats)
   <br>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkgigi&show_icons=true&bg_color=DEG,FF8F5D,9B4AC6&text_color=FFFF&title_color=FFFF)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkgigi&show_icons=true&bg_color=DEG,FF8F5D,9B4AC6&text_color=FFFF&title_color=FFFF&hide=HTML)](https://github.com/anuraghazra/github-readme-stats)
   </div>
 </details>
 <hr>
